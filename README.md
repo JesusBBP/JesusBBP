@@ -55,6 +55,5 @@ Estoy abierto a colaborar en proyectos relacionados con:
 
 - Desarrollo backend (Java, Python)
 - Desarrollo web y móvil
-- Proyectos educativos o sociales con impacto
 
 ¡No dudes en escribirme!
